@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"datastructure.stack","l":"IExpressionEvaluator"},{"p":"datastructure.stack","l":"Istack"},{"p":"datastructure.stack","l":"object"},{"p":"datastructure.stack","l":"SNode"}]
